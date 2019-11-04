@@ -1,1 +1,4 @@
-{message: "Hello from the games show file!"}
+{
+  name: @game.name,
+  players: @game.players
+}
